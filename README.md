@@ -35,6 +35,8 @@ This question is useful for the general public, law enforcement officers, as wel
 ## Question 2
 How do the amount of crimes and type of offense vary by voting precinct? (focusing on precinct 1-10)
 
+![Visualization2](https://github.com/shraeyasam/MIST4610-TableauProject/blob/09159370aed14a84cfb11b39627d889e83d04a01/group_2.jpg)
+
 ### Importance
 This question is important for the general civilian public, law enforcement, and policymakers. For normal citizens, it can help them decide where to live or places to avoid when moving or purchasing a new home, depending on crime rates. It helps law enforcement officers decide on force distribution and patrolling methods. Through answering this question, trends can be exposed in implications of policies, demographics, and poverty levels, showing policymakers potential social and economic issues that need to be solved.
 
