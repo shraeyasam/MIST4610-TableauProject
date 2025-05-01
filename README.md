@@ -26,6 +26,8 @@ Our dataset, Crime Incidents in 2024, contains data reported by the District of 
 ## Question 1
 How do crime types vary by shift time?
 
+![Visualization1](https://github.com/shraeyasam/MIST4610-TableauProject/blob/ffc2eb9d22431ba494b320a81588899339a86728/group_1.jpg)
+
 ### Importance
 This question is useful for the general public, law enforcement officers, as well as policymakers. The answers to this question allows for the education of the public on the most prevalent crimes, when they occur, and measures they can take to prevent crimes. In addition, law enforcement staffing and law enforcement patrol patterns may be evaluated for effectiveness or areas of potential change and improvement. Policymakers can use this question to develop crime prevention policies for societal safety and economic development. 
 
